@@ -10,9 +10,8 @@ NBC News üslubunda hazırlanmış xəbər portalı. Ana səhifədə NewsAPI-də
 
 ## Ekran görüntüləri
 
-| Ana səhifə | Xəbər detay səhifəsi |
-|---|---|
-| ![Ana səhifə](public/screenshots/home.png) | ![Detay səhifəsi](public/screenshots/article.png) |
+Ana səhifə(public/screenshots/hero.png)
+Detay səhifəsi(public/screenshots/desktop.png, desktop2.png, desktop3.png) 
 
 ## Texnologiyalar
 
@@ -36,25 +35,6 @@ NBC News üslubunda hazırlanmış xəbər portalı. Ana səhifədə NewsAPI-də
 - Yüklənmə və xəta mesajları
 - Responsive: kompüter (1000px+), planşet (800–999px), mobil (600–799px)
 
-## Quraşdırma
-
-Tələb olunanlar: **Node.js 18+**, **npm**, **NewsAPI açarı**.
-
-1. Repo-nu klonlayın:
-   ```bash
-   git clone https://github.com/[istifadəçi-adı]/software-village-news-portal.git
-   cd software-village-news-portal
-   ```
-2. Asılılıqları yükləyin:
-   ```bash
-   npm install
-   ```
-3. Kökdə `.env.local` faylı yaradın (`.env.example`-a baxın) və `NEWS_API_KEY` yazın.
-4. İşə salın:
-   ```bash
-   npm run dev
-   ```
-5. Brauzerdə açın: **http://localhost:5173**
 
 ## Mühit dəyişənləri
 
@@ -101,6 +81,6 @@ software-village-news-portal/
 
 ## Müəllif
 
-- **Ad:** [Adınız Soyadınız]
-- **GitHub:** [https://github.com/istifadəçi-adı]
-- **LinkedIn:** [https://linkedin.com/in/istifadəçi-adı]
+- **Ad:** [Toğrul Hüseynli]
+- **GitHub:** [https://github.com/togrulhuseynli05]
+- **LinkedIn:** [https://linkedin.com/in/togrulhuseyn05]

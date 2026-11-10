@@ -1,6 +1,4 @@
 import axios from "axios";
-
-// Açar server tərəfində qalır, brauzerə çıxmır.
 export const apiClient = axios.create({
   baseURL: "/api",
   timeout: 10000,
